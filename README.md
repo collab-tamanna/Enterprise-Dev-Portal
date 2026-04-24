@@ -1,8 +1,5 @@
-Since you are applying for a Software Developer role at Wyreflow and have a strong profile in Data Science, your README should bridge the gap between web development and data analytics.
 
-Here is a professional, high-impact README.md structure you can copy and paste. I have tailored it to highlight your final-year graduation status and technical strengths.
-
-🚀 Enterprise-Dev-Portal (WyreConnect)
+🚀 Enterprise-Dev-Portal
 A comprehensive full-stack application designed to streamline developer networking and enterprise project collaboration. This platform integrates a Django REST Framework (DRF) backend with a dynamic React/Redux frontend to provide a seamless, data-driven user experience.
 
 🛠️ Tech Stack
